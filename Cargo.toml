@@ -1,0 +1,9 @@
+[package]
+name = "assert_exists"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nicholas Obert"]    
+description = "Useful macro to assert that a certain symbol exists in the source code. This is useful to strictly couple otherwise loosely coupled functions and symbols that depend on each other."
+license-file = "LICENSE"
+
+[dependencies]
